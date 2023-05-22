@@ -1,7 +1,7 @@
-#Travel Fortune Teller
+# Travel Fortune Teller
 Travel Fortune Teller is a simple but fun game that randomly generate a travel experience. With Travel Fortune Teller, you can generate a random travel scenario that includes a destination, duration, activity, weather condition, celebrity encounter, and type of accommodation.
 
-##How to use 
+## How to use 
 1. Clone the repository to your local machine using the git clone command.
 2. Install Node.js if you haven't already.
 3. Navigate to the directory where the Travel Fortune Teller JavaScript file is located.
